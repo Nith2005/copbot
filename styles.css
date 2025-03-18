@@ -1,0 +1,9 @@
+body { font-family: Arial, sans-serif; margin: 20px; }
+#chatbox {
+    width: 500px; height: 400px; border: 1px solid #ccc; padding: 10px;
+    overflow-y: scroll; margin-bottom: 10px; background-color: #f9f9f9;
+}
+#user-input { width: 500px; padding: 10px; font-size: 16px; }
+.message { margin: 10px 0; padding: 8px; border-radius: 5px; }
+.user { background-color: #e0f7fa; color: #00796b; }
+.bot { background-color: #e8f5e9; color: #2e7d32; }
