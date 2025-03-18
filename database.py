@@ -1,17 +1,24 @@
-# Simulated police data (replace with actual database or file read logic)
-police_data = {
-    "FIR": "To file an FIR, visit the nearest police station with a valid ID.",
-    "complaint": "You can file a complaint at the police station or online.",
-    "investigation": "After an FIR, police collect evidence and interview witnesses.",
-    "emergency": "Dial 112 for immediate police assistance.",
-    "law": "Refer to local law books or visit the police station for legal information.",
-    "default": "I'm sorry, I couldn't understand your query. Please contact the police station."
-}
+import pandas as pd
+
+# Load police data from CSV file
+def load_data():
+    """Loads police queries and responses from a CSV file."""
+    try:
+        data = pd.read_csv("backend/police_data.csv")
+        return dict(zip(data["query"].str.lower(), data["response"]))
+    except Exception as e:
+        print(f"Error loading dataset: {e}")
+        return {}
+
+# Load the dataset into memory
+police_data = load_data()
 
 def get_response(query):
-    """Returns a response based on user query."""
+    """Finds the best response for a given query."""
     query_lower = query.lower()
+    
     for key in police_data:
         if key in query_lower:
             return police_data[key]
-    return police_data["default"]
+
+    return "I'm sorry, I couldn't understand your query. Please visit the nearest police station for more information."
