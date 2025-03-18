@@ -4,7 +4,7 @@ import pandas as pd
 def load_data():
     """Loads police queries and responses from a CSV file."""
     try:
-        data = pd.read_csv("backend/police_data.csv")
+        data = pd.read_csv("police_data.csv")
         return dict(zip(data["query"].str.lower(), data["response"]))
     except Exception as e:
         print(f"Error loading dataset: {e}")
