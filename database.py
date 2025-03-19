@@ -15,10 +15,15 @@ police_data = load_data()
 
 def get_response(query):
     """Finds the best response for a given query."""
-    query_lower = query.lower()
+    query_lower = query.lower().strip()
     
+    # Direct match
+    if query_lower in police_data:
+        return police_data[query_lower]
+    
+    # Partial match
     for key in police_data:
-        if key in query_lower:
+        if key in query_lower or query_lower in key:
             return police_data[key]
 
     return "I'm sorry, I couldn't understand your query. Please visit the nearest police station for more information."

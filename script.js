@@ -2,11 +2,11 @@ function sendMessage() {
     var inputField = document.getElementById('user-input');
     var userMessage = inputField.value.trim();
 
-    if (userMessage === "") return;  // Prevent empty messages
+    if (userMessage === "") return;
     appendMessage("user", userMessage);
     inputField.value = "";  
 
-    fetch('http://127.0.0.1:5000/chat', {  // Correct API URL
+    fetch('/chat', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ message: userMessage })
@@ -31,4 +31,29 @@ function appendMessage(sender, message) {
     messageDiv.textContent = sender === "user" ? "You: " + message : "Bot: " + message;
     chatbox.appendChild(messageDiv);
     chatbox.scrollTop = chatbox.scrollHeight;
+    
+    // Save to local storage
+    const history = JSON.parse(localStorage.getItem('chatHistory') || '[]');
+    history.push({ sender, message });
+    localStorage.setItem('chatHistory', JSON.stringify(history));
 }
+
+function clearChat() {
+    const chatbox = document.getElementById('chatbox');
+    chatbox.innerHTML = '';
+    localStorage.removeItem('chatHistory');
+}
+
+function loadChatHistory() {
+    const history = localStorage.getItem('chatHistory');
+    if (history) {
+        const messages = JSON.parse(history);
+        messages.forEach(msg => {
+            appendMessage(msg.sender, msg.message);
+        });
+    }
+}
+
+// Add this line at the end of your file
+document.addEventListener('DOMContentLoaded', loadChatHistory);
+
