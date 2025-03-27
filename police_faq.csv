@@ -1,0 +1,371 @@
+Intent,Question Pattern,Response
+fir_filing,How do I file an FIR?,To file an FIR visit your nearest police station with valid ID proof and relevant documents
+emergency,What are emergency numbers?,Police: 100 | Ambulance: 108 | Women Helpline: 1091 | Child Helpline: 1098
+cybercrime,How to report cybercrime?,You can report cybercrimes at cybercrime.gov.in or call 1930
+verification,How to get police verification?,Submit application at local police station with address proof and ID proof
+lost_property,How to report lost property?,File a written complaint at nearest police station with your ID proof
+fir_copy,How to get FIR copy?,Visit the police station where FIR was filed with your FIR number and ID proof
+passport,Police verification for passport?,Police verification is done automatically after passport application
+missing_person,How to report a missing person?,Visit nearest police station with recent photo and details of the missing person
+traffic,How to report traffic violation?,Call 103 for traffic police or use state police app to report violations
+assault,How to file assault complaint?,Visit nearest police station immediately and provide incident details
+legal_info,What is Section 420?,Section 420 IPC deals with cheating and fraud cases with punishment up to 7 years
+
+report_child_abuse,How can I report child abuse?,"You can report child abuse by calling Childline at 1098, visiting a police station, or contacting a child protection agency."
+child_abuse_helpline,What is the helpline number for child abuse?,The Childline 1098 helpline provides assistance for reporting and preventing child abuse.
+legal_protection_children,What legal protection is available for children facing abuse?,"Laws like POCSO Act, Juvenile Justice Act, and IPC sections provide protection and legal recourse."
+file_fir_child_abuse,Can an FIR be filed for child abuse?,"Yes, an FIR can be filed at the nearest police station under relevant child protection laws."
+child_abuse_evidence,What evidence is needed to report child abuse?,"Medical reports, photographs, witness statements, and school records can be used as evidence."
+signs_of_child_abuse,What are the signs of child abuse?,"Signs include unexplained injuries, fearfulness, withdrawal, aggressive behavior, and sudden changes in behavior."
+child_abuse_types,What are the types of child abuse?,"Child abuse can be physical, emotional, sexual, or neglect-related."
+school_responsibility_abuse,What should schools do if they suspect child abuse?,Schools must report suspected abuse to child protection services and ensure the child's safety.
+counseling_for_abused_children,Are there counseling services for abused children?,"Yes, many NGOs and government agencies offer free counseling and rehabilitation services."
+child_safety_measures,How can we ensure child safety at home?,"Supervise interactions, educate about safe and unsafe touch, and maintain open communication."
+anonymous_child_abuse_reporting,Can I report child abuse anonymously?,"Yes, you can report anonymously through helplines or online complaint portals."
+rights_of_abused_children,What rights do abused children have?,"Children have the right to protection, education, health, and legal assistance under various laws."
+juvenile_justice_system,How does the Juvenile Justice System help abused children?,"The system ensures legal protection, rehabilitation, and reintegration of abused children."
+police_response_time_child_abuse,How quickly do police respond to child abuse cases?,Police are required to respond immediately to ensure child safety and start legal action.
+free_legal_aid_childrenW,here can abused children get free legal aid?,Legal aid is available through the National Legal Services Authority (NALSA) and child welfare committees.
+pocso_act,What is the POCSO Act?,The Protection of Children from Sexual Offences (POCSO) Act provides strict legal protection for child victims.
+child_exploitation,What constitutes child exploitation?,"Child exploitation includes forced labor, trafficking, abuse, and using children for illegal activities."
+medical_assistance_abused_children,How can abused children get medical help?,Government hospitals provide free medical care and document injuries for legal proceedings.
+psychological_abuse_children,Is emotional abuse considered child abuse?,"Yes, emotional abuse like constant criticism, threats, and rejection is considered child abuse."
+child_neglect,What is child neglect?,"Child neglect is failing to provide basic needs like food, shelter, education, and medical care."
+child_shelters,Where can abused children find shelter?,Abused children can be placed in government or NGO-run child care institutions and foster homes.
+child_abuse_prevention,How can we prevent child abuse?,"Awareness, parental education, school programs, and strict law enforcement help prevent child abuse."
+digital_child_abuse,Can online threats be considered child abuse?,"Yes, cyberbullying, online grooming, and exploitation fall under digital child abuse."
+teachers_reporting_abuse,Are teachers required to report child abuse?,"Yes, teachers are mandatory reporters and must inform authorities if they suspect abuse."
+child_abduction,What should be done in case of child abduction?,"Immediately report to the police and child helpline, providing all relevant details."
+parental_rights_abuse_cases,Can abusive parents lose custody?,"Yes, courts can remove parental rights in cases of severe abuse or neglect."
+court_protection_child,Can courts provide special protection for child victims?,"Yes, courts can arrange in-camera trials and special child-friendly procedures for abuse cases."
+public_awareness_campaigns_child,Are there awareness programs on child abuse?,"Yes, NGOs and government bodies conduct awareness campaigns to educate people about child protection laws."
+child_labour,Is child labor considered child abuse?,"Yes, child labor is illegal and considered a form of exploitation and abuse."
+support_for_child_trafficking_victims,What help is available for child trafficking victims?,"Rescue operations, rehabilitation centers, and legal aid are provided for trafficking victims."
+special_courts_pocso,Are there special courts for child abuse cases?,"Yes, special POCSO courts handle child sexual abuse cases to ensure speedy justice."
+role_of_CWC,What is the role of the Child Welfare Committee (CWC)?,"CWC ensures protection, rehabilitation, and legal support for abused and abandoned children."
+effect_of_abuse_on_children,What are the long-term effects of child abuse?,"Abuse can cause PTSD, depression, anxiety, and difficulty in social relationships."
+child_foster_care,Can an abused child be placed in foster care?,"Yes, courts can place abused children in foster care for their protection."
+child_abuse_during_pandemic,Did child abuse increase during the pandemic?,"Yes, reports show a rise in child abuse cases due to lockdowns and restricted movement."
+financial_assistance_abuse_victims,Is there financial support for abused children?,"Yes, some government schemes provide financial aid for child abuse victims."
+child_abuse_statistics,What are the statistics on child abuse in India?,"According to NCRB, child abuse cases have been rising, highlighting the need for strict action."
+abuse_in_child_care_homes,What if a child is abused in a care home?,Such cases must be reported to child welfare authorities for investigation and action.
+report_domestic_violence,How can I report domestic violence?,"You can report domestic violence by calling the police helpline, visiting the nearest police station, or filing a complaint online."
+domestic_violence_helpline,What is the helpline number for domestic violence?,You can call the National Domestic Violence Helpline at 181 or contact the local police at 100.
+legal_protection_domestic,What legal protection is available for domestic violence victims?,"Victims of domestic violence can seek protection under the Protection of Women from Domestic Violence Act, 2005."
+file_fir_domestic,Can I file an FIR for domestic violence?,"Yes, you can file an FIR at the nearest police station under Section 498A of IPC and the Domestic Violence Act."
+domestic_violence_evidence,What evidence is needed to report domestic violence?,"You can provide medical reports, photographs, witness statements, call recordings, or messages as evidence."
+restraining_order,How can I get a restraining order against my abuser?,"You can approach the court and file for a Protection Order under the Domestic Violence Act, 2005."
+shelter_for_victims,Where can domestic violence victims find shelter?,Victims can seek shelter at government or NGO-run women's shelters and crisis centers.
+report_harassment,How can I report harassment?,"You can report harassment by calling the police helpline, visiting a police station, or filing a complaint online."
+harassment_helpline,What is the helpline number for harassment?,You can call the Women’s Helpline at 1091 or the Police Helpline at 100 to report harassment.
+legal_protection_harassment,What legal protection is available for harassment victims?,"Victims can seek protection under IPC sections 354, 506, and 509 for different types of harassment."
+file_fir_harassment,Can I file an FIR for harassment?,"Yes, you can file an FIR at the nearest police station under the relevant IPC sections."
+harassment_evidence,What evidence is needed to report harassment?,"You can provide messages, call recordings, CCTV footage, medical reports, and witness statements."
+sexual_harassment_workplace,How to report sexual harassment at the workplace?,You can report it to the Internal Complaints Committee (ICC) at your workplace or approach the police.
+stalking_laws,Is stalking considered harassment?,"Yes, stalking is an offense under IPC Section 354D and is punishable by law."
+cyber_harassment,What is cyber harassment?,"Cyber harassment includes threats, bullying, or obscene messages sent via digital platforms."
+cyberbullying_reporting,How can I report cyberbullying?,You can report cyberbullying to the Cyber Crime Cell or through the National Cyber Crime Portal.
+verbal_harassment,Is verbal abuse considered harassment?,"Yes, verbal threats, insults, and obscene remarks are considered harassment under IPC 294 and 506."
+harassment_at_public_places,What should I do if I am harassed in a public place?,You should immediately seek help from nearby authorities or call the police helpline.
+anonymous_harassment_reporting,Can I report harassment anonymously?,"Yes, you can report anonymously through helplines or online complaint portals."
+sexual_harassment_laws,What laws protect against sexual harassment?,"Laws such as the Sexual Harassment of Women at Workplace Act, 2013, and IPC sections 354, 509 provide protection."
+domestic_harassment,What legal actions can be taken for harassment at home?,Domestic harassment falls under the Domestic Violence Act and IPC Section 498A.
+blackmailing_as_harassment,Is blackmailing considered harassment?,"Yes, blackmailing is punishable under IPC Section 503 for criminal intimidation."
+workplace_harassment_protection,How can employees protect themselves from workplace harassment?,"Employees can document incidents, report to HR or ICC, and seek legal protection."
+online_harassment_safety,How can I stay safe from online harassment?,"Use privacy settings, block harassers, avoid sharing personal details, and report abuse."
+public_awareness_harassment,Are there awareness programs on harassment?,"Yes, government and NGOs conduct awareness programs to educate people about harassment laws."
+spreading_false_rumors,Is spreading false rumors about someone considered harassment?,"Yes, defamation and spreading false information can be legally challenged under IPC Section 499."
+whatsapp_harassment,Can harassment via WhatsApp be reported?,"Yes, you can report offensive messages to WhatsApp and file a complaint with the Cyber Crime Cell."
+social_media_harassment,How to report harassment on social media?,"You can report abusive content on platforms like Facebook, Instagram, or Twitter and file a police complaint."
+revenge_porn,Is revenge porn considered harassment?,"Yes, sharing intimate content without consent is a criminal offense under IPC Section 67A and IT Act."
+neighbor_harassment,What can I do if my neighbor is harassing me?,You can report the issue to the local police or file a complaint with the magistrate.
+harassment_by_colleague,How to handle harassment by a colleague?,"You should document incidents, report to HR, or escalate the issue to legal authorities."
+false_harassment_claims,What if someone falsely accuses me of harassment?,You can file a counter-complaint for defamation and provide evidence to prove your innocence.
+gender_neutral_harassment_laws,Are harassment laws gender-neutral?,"Some harassment laws apply to all genders, while others specifically protect women."
+protection_for_victims,What protection is available for harassment victims?,"Victims can seek police protection, restraining orders, and legal aid."
+road_rage_harassment,Is road rage a form of harassment?,"Yes, aggressive driving, verbal threats, and intimidation on the road can be reported as harassment."
+student_harassment,How to report harassment in schools or colleges?,Students can report to the institution’s grievance cell or approach the police.
+harassment_against_men,Can men file harassment complaints?,"Yes, men can file complaints under general IPC sections like 506, 509, and 503."
+bullying_vs_harassment,What is the difference between bullying and harassment?,"Bullying is persistent intimidation, while harassment involves legal implications and criminal charges."
+phone_call_harassment,How can I stop harassing phone calls?,Block the number and report it to the police or the telecom service provider.
+elder_harassment,What legal actions can be taken for harassment of elderly people?,Elderly abuse or harassment can be reported under the Maintenance and Welfare of Parents and Senior Citizens Act.
+landlord_harassment,What can I do if my landlord is harassing me?,You can file a police complaint or approach the Rent Control Board for legal action.
+harassment_due_to_race,Can racial harassment be reported?,"Yes, racial harassment is a punishable offense under discrimination and hate speech laws."
+report_stolen_vehicle,How can I report a stolen vehicle?,You can report a stolen vehicle by filing an FIR at the nearest police station or online.
+stolen_vehicle_helpline,What is the helpline number to report a stolen vehicle?,You can call 100 (police helpline) to report a stolen vehicle immediately.
+file_fir_stolen_vehicle,Can I file an FIR online for a stolen vehicle?,"Yes, many state police websites allow online FIR registration for stolen vehicles."
+documents_needed_fir,What documents are needed to file an FIR for a stolen vehicle?,"You need the RC, insurance copy, driving license, and a written complaint."
+insurance_claim_stolen_vehicle,How to claim insurance for a stolen vehicle?,"File an FIR, inform your insurance company, and submit the required documents."
+tracking_stolen_vehicle,Can the police track my stolen vehicle?,"Yes, police use CCTV footage, GPS tracking (if installed), and vehicle registration databases."
+chances_recovering_vehicle,What are the chances of recovering a stolen vehicle?,"Recovery depends on timely reporting, police efforts, and available evidence."
+police_action_stolen_vehicle,What actions do the police take for a stolen vehicle?,"The police issue an alert, check CCTV footage, and investigate based on available leads."
+stolen_vehicle_noc,What is an NOC for a stolen vehicle?,"A No Objection Certificate (NOC) is issued if the vehicle is not recovered, required for insurance claims."
+found_stolen_vehicle,What should I do if I find my stolen vehicle?,Inform the police immediately and follow legal procedures before reclaiming it.
+temporary_vehicle_permit,Can I get a temporary vehicle permit if my car is stolen?,"Yes, you can apply for a temporary permit from the RTO while your case is investigated."
+stolen_vehicle_rto_notification,Should I inform the RTO about my stolen vehicle?,"Yes, notifying the RTO helps prevent misuse of the vehicle’s registration details."
+legal_penalty_using_stolen_vehicle,What is the penalty for using a stolen vehicle?,Knowingly using a stolen vehicle is a criminal offense under IPC Sections 411 and 414.
+recover_stolen_vehicle_outside_city,What if my stolen vehicle is found in another city?,Police coordinate with the respective jurisdiction to recover the vehicle.
+online_portal_stolen_vehicle,Is there an online portal to check stolen vehicles?,"Yes, the NCRB website allows users to check stolen vehicle records."
+stolen_vehicle_punishment,What is the punishment for vehicle theft?,"Under IPC Section 379, vehicle theft can lead to imprisonment of up to 3 years."
+stolen_bike_report,How do I report a stolen bike?,"You can report it at the police station, online, or via the crime helpline."
+gps_tracking_stolen_vehicle,Can a vehicle be recovered using GPS tracking?,"Yes, if your vehicle has a GPS tracker, share the details with the police for quicker recovery."
+rc_blacklist_stolen_vehicle,Will my stolen vehicle’s RC be blacklisted?,"Yes, once reported, the RC is flagged to prevent illegal transfers."
+check_stolen_vehicle_database,How can I check if a vehicle is stolen?,Use the NCRB database or contact the local RTO to verify vehicle theft records.
+selling_stolen_vehicle,What if someone sells a stolen vehicle?,Selling a stolen vehicle is illegal and punishable under IPC 411.
+vehicle_theft_insurance_time,How long does insurance take to settle a stolen vehicle claim?,"Insurance claims may take 30-90 days, depending on investigation results."
+how_to_avoid_vehicle_theft,How can I prevent my vehicle from being stolen?,"Use anti-theft devices, park in secure areas, and avoid leaving valuables inside."
+engine_chassis_number_check,How to check if an engine or chassis number is fake?,Verify with the RTO or police records to ensure authenticity.
+duplicate_rc_stolen_vehicle,Can I get a duplicate RC if my vehicle is stolen?,"Yes, after reporting the theft, apply for a duplicate RC at the RTO."
+loan_vehicle_stolen,What if a stolen vehicle was under a loan?,"Notify your lender immediately, as insurance and legal steps may be required."
+rto_blacklist_vehicle,How does the RTO blacklist a stolen vehicle?,"The RTO marks the vehicle as stolen, preventing registration changes or resale."
+tracking_resold_stolen_vehicle,What if my stolen vehicle is resold?,"The police can trace it via RC details, chassis number, or online resale platforms."
+stolen_vehicle_in_different_state,What if my stolen vehicle is found in another state?,Police will coordinate with the respective state authorities for retrieval.
+police_recovered_vehicle_notification,How will I know if my stolen vehicle is recovered?,"The police will contact you once your vehicle is found, or you can check online databases."
+second_hand_vehicle_check,How to check if a second-hand vehicle is stolen?,"Verify ownership documents, check NCRB records, and match the chassis number with the RC."
+accidental_stolen_vehicle,What if a stolen vehicle is involved in an accident?,The owner must cooperate with police investigations and legal procedures.
+fake_vehicle_number_plate,Can a stolen vehicle have fake number plates?,"Yes, thieves often use fake plates, making police verification crucial."
+cctv_stolen_vehicle,Can CCTV footage help in tracking a stolen vehicle?,"Yes, police use CCTV footage to trace vehicle movements after theft."
+reward_recovery_stolen_vehicle,Is there a reward for recovering a stolen vehicle?,Some insurance companies or local authorities may offer rewards.
+stolen_vehicle_investigation_time,How long does a stolen vehicle investigation take?,"It varies based on evidence, police resources, and jurisdiction."
+check_traffic_fine,How can I check my traffic fine?,You can check your traffic fine on the official traffic police website or through online portals like Parivahan.
+pay_traffic_fine,How can I pay my traffic fine online?,You can pay your traffic fine online via the e-challan website or mobile apps like Parivahan.
+offline_fine_payment,Can I pay my traffic fine offline?,"Yes, you can pay your fine at the nearest traffic police station or designated bank branches."
+documents_needed_fine_payment,What documents are needed to pay a traffic fine?,You need the vehicle registration number and challan details to make the payment.
+wrong_challan_received,What should I do if I receive a wrong traffic challan?,You can contest the challan by visiting the traffic police department or filing an appeal online.
+fine_for_red_light_jump,What is the fine for jumping a red light?,"The fine varies by state but generally ranges between ₹500 to ₹5,000."
+fine_for_drunk_driving,What is the penalty for drunk driving?,"Drunk driving is punishable with a fine of ₹10,000 and/or imprisonment."
+fine_for_without_license,What is the fine for driving without a license?,"Driving without a valid license can result in a fine of ₹5,000."
+speed_limit_violation_fine,What is the penalty for overspeeding?,"The fine for overspeeding varies from ₹1,000 to ₹4,000 depending on the vehicle type."
+parking_violation_fine,What is the fine for illegal parking?,"Illegal parking fines range from ₹500 to ₹2,000 based on city and location."
+helmet_rule_violation_fine,What is the fine for not wearing a helmet?,"Riding without a helmet can result in a fine of ₹1,000 and license suspension."
+seat_belt_violation_fine,What is the fine for not wearing a seatbelt?,"The fine for not wearing a seatbelt is ₹1,000 as per the Motor Vehicles Act."
+mobile_use_while_driving_fine,What is the penalty for using a mobile while driving?,"Using a mobile phone while driving can lead to a fine of ₹5,000."
+challan_time_limit,How much time do I have to pay my traffic fine?,You typically have 60 days from the issue date to pay the challan.
+challan_not_paid,What happens if I don’t pay my traffic fine?,"Failure to pay can result in increased fines, legal notices, or even license suspension."
+how_to_check_pending_fines,How can I check if I have any pending fines?,You can check pending fines on the traffic police or Parivahan website by entering your vehicle number.
+fine_for_no_rc,What is the fine for not carrying an RC?,"Driving without an RC can result in a fine of ₹5,000."
+fine_for_tinted_glass,Is there a fine for using tinted glass on a vehicle?,"Yes, using tinted glass beyond the permitted limit can result in a fine of ₹500 to ₹1,500."
+fine_for_modified_exhaust,What is the penalty for using a modified exhaust?,"Using a modified loud exhaust can lead to a fine of ₹1,000 to ₹10,000."
+fine_for_expired_insurance,What is the fine for driving without valid insurance?,"Driving without valid insurance can lead to a fine of ₹2,000 to ₹4,000."
+wrong_lane_driving_fine,What is the fine for driving in the wrong lane?,"Wrong-lane driving can result in a fine of ₹1,000 to ₹5,000."
+fine_for_no_puc,What is the fine for not having a Pollution Under Control (PUC) certificate?,"The fine for not having a valid PUC is ₹1,000 for first-time offenders and ₹2,000 for repeat offenses."
+fine_for_honking,What is the penalty for unnecessary honking?,"Unnecessary honking can result in a fine of ₹1,000 to ₹2,000."
+fine_for_wrong_u_turn,What is the fine for taking an illegal U-turn?,"Taking an illegal U-turn can lead to a fine of ₹500 to ₹1,500."
+fine_for_hazardous_driving,What is the fine for reckless or dangerous driving?,"Reckless driving can result in a fine of ₹5,000 to ₹10,000 and/or imprisonment."
+fine_for_overloading_vehicle,What is the fine for overloading a vehicle?,"Overloading can result in a fine of ₹2,000 to ₹20,000 depending on the excess load."
+fine_for_double_parking,What is the fine for double parking?,"Double parking fines range from ₹500 to ₹2,000."
+fine_for_vehicle_without_number_plate,Is there a fine for driving without a number plate?,"Yes, driving without a number plate can result in a fine of ₹5,000."
+fine_for_wheelie,What is the fine for performing a wheelie on a motorcycle?,"Performing stunts or wheelies on public roads can lead to a fine of ₹5,000."
+fine_for_defective_number_plate,Can I be fined for having a fancy number plate?,"Yes, non-standard number plates can result in a fine of ₹1,000."
+fine_for_bus_lane_violation,What is the penalty for driving in a dedicated bus lane?,"Driving in a bus lane can lead to a fine of ₹2,000."
+fine_for_fog_lights,Can I be fined for using high beam or fog lights improperly?,"Yes, improper use of high beams or fog lights can lead to a fine of ₹500."
+fine_for_expired_driving_license,What happens if I drive with an expired license?,"Driving with an expired license can result in a fine of ₹5,000."
+challan_status_check,How can I check the status of my challan?,You can check the status on the official e-challan website or Parivahan portal.
+report_missing_item,How can I report a missing item?,You can report a missing item by filing a complaint at the nearest police station or online.
+file_fir_missing_item,Can I file an FIR for a missing item?,"Yes, you can file an FIR for valuable missing items such as mobile phones, wallets, or important documents."
+lost_mobile_phone,What should I do if I lose my mobile phone?,"You should report it to the police, block your SIM, and track it using mobile tracking apps."
+missing_wallet_report,How do I report a lost wallet?,You can file a missing complaint at the police station and inform your bank to block any cards.
+find_lost_item,How can I find my lost item?,"Check lost and found departments, file a police report, and use online tracking if applicable."
+lost_credit_debit_card,What should I do if I lose my debit or credit card?,Immediately report it to your bank and block the card to prevent unauthorized transactions.
+lost_passport,How do I report a lost passport?,File a police report and apply for a duplicate passport with the passport office.
+stolen_laptop,What should I do if my laptop is stolen?,"File an FIR, track it using device tracking services, and inform your company if it's a work laptop."
+lost_vehicle_number_plate,Can I file a complaint for a missing vehicle number plate?,"Yes, report it to the police and apply for a duplicate plate at the RTO."
+report_missing_id_card,How can I report a lost ID card?,You can report it to the police and apply for a duplicate ID at the issuing authority.
+missing_items_police_verification,Do I need police verification for lost items?,"Yes, some institutions require a police verification letter for issuing duplicates."
+lost_item_airport,What should I do if I lose something at an airport?,Check with the airport's lost and found department or file a report at the airport police station.
+missing_important_documents,How do I report missing legal documents?,You need to file a police complaint and apply for reissuance from the relevant authority.
+lost_key,Can I report a lost key to the police?,"Yes, you can report it, especially if it involves a vehicle or house key for security reasons."
+missing_pet,How do I report a missing pet?,You can file a missing pet report at your local police station and distribute flyers in the neighborhood.
+lost_jewelry,What should I do if I lose my jewelry?,File a police complaint and check with lost and found services in your area.
+lost_childs_belongings,How can I report missing belongings of a child?,"You can report it to the school, police, or any place where the item was last seen."
+missing_personal_belongings_public_transport,What should I do if I lose an item in public transport?,Contact the transport authority’s lost and found department and file a police complaint if needed.
+report_missing_vehicle_documents,Can I report lost vehicle documents?,"Yes, you should file a police complaint and apply for duplicate documents at the RTO."
+find_lost_smartwatch,How can I find my lost smartwatch?,Use the smartwatch tracking feature and report it to the police if needed.
+lost_college_documents,How do I report lost college documents?,Report it to the college administration and file a police complaint for duplicate copies.
+lost_medical_prescriptions,Can I report a missing medical prescription?,"Yes, you can report it to your doctor or pharmacist and request a duplicate prescription."
+lost_home_loan_papers,What should I do if I lose my home loan papers?,Report to the bank and file a police complaint before applying for duplicate papers.
+lost_land_registry,How do I report a lost land registry document?,File a police report and apply for a duplicate at the land records office.
+missing_luggage_train,What should I do if my luggage is lost on a train?,Contact the railway lost and found department and file a police report.
+lost_item_in_hotel,Can I report a lost item in a hotel?,"Yes, inform the hotel staff and check their lost and found department."
+misplaced_cheque_book,What should I do if I lose my cheque book?,Inform your bank immediately and request a new cheque book.
+lost_insurance_papers,Can I report missing insurance papers?,"Yes, file a police complaint and request a duplicate from your insurance company."
+missing_voter_id,What should I do if I lose my Voter ID?,Report it to the police and apply for a duplicate via the Election Commission website.
+lost_driving_license,How do I report a missing driving license?,File a police complaint and apply for a duplicate at the RTO.
+lost_pan_card,Can I report a lost PAN card?,"Yes, you can report it and apply for a duplicate PAN card from the Income Tax Department."
+lost_birth_certificate,What should I do if I lose my birth certificate?,File a police report and request a duplicate from the municipal office.
+lost_death_certificate,Can I get a duplicate death certificate if the original is lost?,"Yes, you need to apply for a duplicate at the local municipal office."
+missing_laptop_in_taxi,What should I do if I forget my laptop in a taxi?,Contact the taxi service provider and file a police complaint if needed.
+lost_wedding_ring,Can I file a report for a lost wedding ring?,"Yes, you can file a missing item complaint at the police station."
+lost_spectacles,What should I do if I lose my spectacles?,Check lost and found services in the area where you last used them.
+lost_book_library,How can I report a lost library book?,Inform the library and pay the necessary fine or replacement fee.
+lost_hearing_aid,Can I report a lost hearing aid?,"Yes, report it to the police and check lost and found services."
+PCC_Application,How can I apply for a Police Clearance Certificate?,You can apply for a Police Clearance Certificate (PCC) through your local police station or online via the official government website.
+PCC_Application,Where can I get a police clearance certificate?,You can obtain a Police Clearance Certificate from your local police station or apply online via the government portal.
+PCC_Application,Can I apply for a PCC online?,"Yes, many regions offer an online application for PCC through their official police or government websites."
+PCC_Application,What is the process for obtaining a PCC?,You need to submit an application form along with required documents at your local police station or online portal. The authorities will verify your details before issuing the certificate.
+PCC_Application,Do I need to visit the police station for a PCC?,"In some cases, you may need to visit the police station for verification. However, many authorities now offer online processing."
+PCC_Documents,What documents are required for a PCC?,"Typically, you need identity proof (passport, Aadhar card), address proof, and recent photographs. Check with your local police department for specific requirements."
+PCC_Documents,Is a passport mandatory for PCC?,"In many cases, a passport is required, especially for international PCCs. However, some local PCCs may accept other forms of identity proof."
+PCC_Documents,Can I apply for PCC without an address proof?,"Address proof is generally required, but you may check with your local authorities for alternative verification methods."
+PCC_Documents,Do I need fingerprints for a PCC?,"Some countries or regions may require fingerprint verification, but it depends on local laws and regulations."
+PCC_Documents,Can I use my driving license as proof for PCC?,"A driving license may be accepted as identity proof, but it is best to confirm with the issuing authority."
+PCC_Fees,What is the fee for a PCC?,The fee for obtaining a PCC varies by location. You can check with your local police department or government website for details.
+PCC_Fees,Is there a fee waiver for PCC?,"In some cases, PCC fees may be waived for specific individuals, such as students or government employees. Check with local authorities."
+PCC_Fees,How do I pay for my PCC application?,"You can usually pay online, via bank transfer, or directly at the police station. The payment methods depend on the issuing authority."
+PCC_Fees,Do I need to pay separately for PCC verification?,"No, the verification process is generally included in the application fee."
+PCC_Fees,Can I get a refund if my PCC is rejected?,Most authorities do not offer refunds for rejected PCC applications.
+PCC_ProcessingTime,How long does it take to get a PCC?,The processing time varies but generally takes 7 to 15 days. Urgent requests may be processed faster.
+PCC_ProcessingTime,Can I get a PCC in one day?,"Some authorities provide express PCC services, but it depends on your location."
+PCC_ProcessingTime,Why is my PCC taking so long?,"Delays may occur due to background checks, pending verifications, or high application volumes."
+PCC_ProcessingTime,How can I check my PCC status?,You can check your PCC status online if your application was submitted through an e-portal or by contacting the police station.
+Tenant_Verification_Process,How can I verify a tenant?,You can verify a tenant by submitting their details to the local police station or using an online tenant verification portal.
+Tenant_Verification_Process,Is tenant verification mandatory?,"In many cities, tenant verification is mandatory for security reasons. Check local regulations for confirmation."
+Tenant_Verification_Process,Where can I apply for tenant verification?,You can apply at your local police station or through an official government online portal.
+Tenant_Verification_Process,Can I do tenant verification online?,"Yes, many police departments provide online tenant verification services."
+Tenant_Verification_Process,What is the process for tenant verification?,"You need to submit the tenant's ID proof, address proof, and a verification form at the local police station or online."
+Tenant_Documents,What documents are required for tenant verification?,"Commonly required documents include the tenant's ID proof, address proof, and a recent photograph."
+Tenant_Documents,Do I need a tenant's Aadhaar card for verification?,"Yes, an Aadhaar card is commonly accepted for tenant verification."
+Tenant_Documents,Can I verify a tenant with a passport?,"Yes, a passport can be used as a valid identity proof for tenant verification."
+Tenant_Documents,Is police clearance needed for tenant verification?,"Not always, but in some cases, a police clearance certificate may be required."
+Tenant_Documents,Can I verify a tenant using a driving license?,"Yes, a driving license can be used as identity proof for tenant verification."
+Tenant_Fees,Is there a fee for tenant verification?,"Some police departments charge a fee, while others offer it for free. Check with your local police station."
+Tenant_Fees,How much does tenant verification cost?,The cost varies by location. Contact your local police station for fee details.
+Tenant_Fees,Can I get a refund if my tenant verification request is rejected?,"Generally, fees for tenant verification are non-refundable."
+Tenant_Fees,"Who should pay for tenant verification, landlord or tenant?","It depends on the rental agreement, but usually, the landlord is responsible."
+Tenant_Fees,Is tenant verification free in some cities?,"Yes, some local police departments provide free tenant verification services."
+Tenant_ProcessingTime,How long does tenant verification take?,"Processing times vary, but it typically takes 3-7 days."
+Tenant_ProcessingTime,Can I get tenant verification done in one day?,Some police departments offer expedited services for a faster process.
+Tenant_ProcessingTime,Why is my tenant verification taking so long?,"Delays may be due to background checks, pending documents, or high application volume."
+Tenant_ProcessingTime,How can I check the status of my tenant verification?,You can check the status online or by visiting the police station where you applied.
+Tenant_ProcessingTime,Can I track my tenant verification application?,"Yes, many online portals provide tracking services."
+ATM_Fraud_Reporting,How can I report an ATM fraud?,Report ATM fraud to your bank and file a complaint on the Cyber Crime Portal (www.cybercrime.gov.in).
+Unauthorized_Withdrawal,What should I do if money is deducted from my account without my knowledge?,Immediately contact your bank and report the transaction as fraudulent.
+ATM_Card_Skimming,What is ATM card skimming and how does it happen?,ATM skimming involves devices that steal card details. Always inspect ATMs before use.
+Lost_ATM_Card,I lost my ATM card. What should I do?,Block your card immediately by calling your bank and request a replacement.
+ATM_Pin_Sharing,Can I share my ATM PIN with someone I trust?,"Never share your ATM PIN with anyone, as it can lead to fraud and unauthorized transactions."
+ATM_Machine_Error,What should I do if the ATM did not dispense cash but the amount was deducted?,Report the issue to your bank. The amount is usually refunded within 7 working days.
+ATM_Security_Check,How do I check if an ATM is safe to use?,"Look for loose parts, hidden cameras, or unauthorized devices before using the ATM."
+ATM_Transaction_Limit,Is there a limit on ATM transactions per day?,"Yes, banks impose daily withdrawal limits. Check with your bank for details."
+ATM_CCTV_Footage,Can I request CCTV footage of an ATM fraud incident?,"Yes, you can request CCTV footage through your bank or law enforcement."
+ATM_Refund_Process,How long does it take to get a refund for a fraudulent ATM transaction?,"Banks typically process refunds within 7-30 days, depending on the investigation."
+Bank_Helpline,Which helpline number should I call for ATM fraud?,Call your bank's customer service or the RBI ombudsman for complaints.
+ATM_Fraud_Punishment,What is the punishment for ATM fraud in India?,"Under IT Act Section 66, ATM fraud is punishable with up to 3 years imprisonment and a fine."
+Bank_Liability,Is my bank responsible for ATM fraud?,"If fraud is reported within 3 days, the bank is liable to refund the amount as per RBI guidelines."
+ATM_Pin_Change,How often should I change my ATM PIN?,It is advisable to change your ATM PIN every few months to enhance security.
+Fake_ATM_Calls,What should I do if someone calls me pretending to be a bank official?,Do not share your details. Banks never ask for sensitive information over calls.
+ATM_Cash_Trap,What is an ATM cash trapping scam?,Fraudsters use a device to block cash from dispensing and later retrieve it. Report such incidents immediately.
+ATM_Police_Complaint,Can I file a police complaint for ATM fraud?,"Yes, you can report ATM fraud at the nearest cybercrime police station."
+ATM_Machine_Tampering,What should I do if I notice an ATM machine has been tampered with?,Avoid using it and immediately report it to the bank or local authorities.
+ATM_Transaction_OTP,Do ATMs require an OTP for withdrawals?,Some banks offer OTP-based cash withdrawals for added security.
+ATM_Fraud_Insurance,Is there an insurance policy against ATM fraud?,Some banks offer fraud protection insurance. Check with your bank for details.
+International_ATM_Use,Can I use my Indian ATM card abroad?,"Yes, if international transactions are enabled on your card. Check with your bank."
+Bank_Customer_Care,How do I contact my bank�s customer care for ATM fraud?,Visit your bank�s official website or call the helpline number printed on your card.
+RBI_Guidelines_ATM_Fraud,What are RBI guidelines on ATM fraud liability?,"If fraud is reported within 3 days, the bank must refund the amount without liability on the customer."
+Bank_Fraud_Department,Does every bank have a fraud investigation department?,"Yes, all banks have a dedicated fraud investigation and dispute resolution team."
+ATM_Withdrawal_Limit,What is the maximum amount I can withdraw from an ATM?,ATM withdrawal limits vary by bank and account type. Check with your bank for specifics.
+ATM_Chip_Card_Safety,Are chip-based ATM cards safer than magnetic stripe cards?,"Yes, chip-based cards provide better encryption and security against fraud."
+ATM_Transaction_SMS,Why should I enable SMS alerts for ATM transactions?,SMS alerts help you track unauthorized transactions instantly.
+ATM_Receipt,Should I take my ATM receipt after every transaction?,"Yes, always take your receipt to prevent misuse of transaction details."
+ATM_Fraud_Awareness,How can I educate others about ATM fraud prevention?,Share information on safe ATM usage and report fraud incidents to authorities.
+Fake_ATM_Websites,How do fraudsters use fake websites to steal ATM details?,They create fake banking sites to collect card information. Always verify URLs before entering details.
+ATM_Fraud_Cybercell,Where can I report ATM fraud apart from my bank?,You can report it to the Cyber Crime Cell or visit www.cybercrime.gov.in.
+ATM_PIN_Hacking,Can hackers steal my ATM PIN remotely?,"Hackers use skimmers, keyloggers, and phishing scams. Avoid using ATMs with suspicious attachments."
+ATM_Fraud_Bank_Compensation,Will my bank compensate me for ATM fraud?,Banks may compensate if the fraud is reported within the RBI-specified time frame.
+ATM_Transaction_Reversal,How do I get a reversal for a failed ATM transaction?,Report to your bank. Reversals usually happen within 5-7 working days.
+ATM_Fraudulent_Charges,What should I do if my bank account shows fraudulent ATM withdrawals?,Immediately report unauthorized withdrawals to your bank and freeze your card.
+ATM_Card_Debit_Theft,Can someone misuse my lost ATM card?,"Yes, if they have access to your PIN. Block the card immediately."
+ATM_Fraud_Customer_Rights,What are my rights if I�m a victim of ATM fraud?,"As per RBI guidelines, report fraud within 3 days to avoid liability."
+ATM_Fraud_Social_Engineering,How do fraudsters use social engineering in ATM fraud?,They trick people into revealing PINs or OTPs. Never share such details.
+ATM_Cash_Non_Dispense,What if the ATM doesn�t dispense cash but deducts money?,File a complaint with your bank. The amount is usually credited back in 5-7 days.
+ATM_Suspicious_Activity,What should I do if I see someone acting suspiciously near an ATM?,Avoid using that ATM and inform the bank or police immediately.
+ATM_Two_Factor_Authentication,Do ATMs use two-factor authentication?,Some banks have started implementing additional authentication like OTP for security.
+ATM_Technical_Glitches,What should I do if an ATM is not working properly?,Report it to the bank and avoid using the machine.
+ATM_Lockout,What happens if I enter the wrong PIN multiple times?,Your ATM card may be temporarily blocked for security reasons.
+ATM_Police_Intervention,Can the police help in ATM fraud cases?,"Yes, you can file an FIR with the cyber police for ATM fraud incidents."
+ATM_Bank_Notification,Why did my bank block my ATM card?,Banks block cards for security reasons due to suspicious activity. Contact customer service for details.
+Hit_Run_Reporting,How can I report a hit-and-run accident?,You can report a hit-and-run case by calling the police helpline 112 or visiting the nearest police station.
+Hit_Run_Laws,What is the legal punishment for a hit-and-run case in India?,"Under IPC Section 304A, hit-and-run cases can lead to up to 2 years imprisonment and a fine."
+Hit_Run_Evidence,What evidence should I collect after a hit-and-run accident?,"Collect vehicle details, eyewitness statements, and CCTV footage to support your case."
+Hit_Run_Victim_Help,What should I do if I witness a hit-and-run accident?,"Call emergency services (112 or 108), help the injured, and report the incident to the police."
+Hit_Run_Insurance,Can I claim insurance for a hit-and-run case?,"Yes, victims can claim compensation under the Solatium Scheme for hit-and-run accidents."
+Hit_Run_CCTV_Footage,Can police track the vehicle using CCTV footage?,"Yes, police can check CCTV footage from nearby cameras to identify the vehicle involved."
+Hit_Run_Compensation,How much compensation can I get for a hit-and-run case?,"Under the Solatium Scheme, victims may get ?2 lakh for death and ?50,000 for serious injury."
+Hit_Run_Witness,Can I be a witness in a hit-and-run case?,"Yes, eyewitnesses play a crucial role in identifying the vehicle and helping victims get justice."
+Hit_Run_Drunk_Driving,What if the driver in a hit-and-run case was drunk?,Drunk driving and fleeing the scene can result in stricter penalties under IPC Section 185 of the MV Act.
+Hit_Run_First_Aid,What first aid should be given to a hit-and-run victim?,"Call emergency services, stop bleeding, and keep the victim stable until medical help arrives."
+Hit_Run_Police_FIR,How do I file an FIR for a hit-and-run accident?,"Visit the nearest police station, provide details of the incident, and register a complaint."
+Hit_Run_Punishment,What happens if the hit-and-run driver is caught?,"They can face imprisonment, fines, and loss of driving privileges under the Motor Vehicles Act."
+Hit_Run_Anonymous_Tip,Can I report a hit-and-run case anonymously?,"Yes, you can provide anonymous tips to the police via the helpline or online complaint portals."
+Hit_Run_Motor_Vehicle_Act,Which section of the Motor Vehicles Act covers hit-and-run cases?,Hit-and-run cases are covered under Section 161 and 134 of the Motor Vehicles Act.
+Hit_Run_Helpline,Which helpline should I call for a hit-and-run emergency?,Call 112 for police assistance or 108 for medical emergencies.
+Hit_Run_License_Suspension,Can a hit-and-run driver lose their driving license?,"Yes, authorities can suspend or cancel the driving license of the offender under MV Act regulations."
+Hit_Run_Victim_Rights,What are the legal rights of a hit-and-run victim?,"Victims have the right to claim compensation, demand a police investigation, and seek justice in court."
+Hit_Run_Accident_Location,Should I move the victim from the accident site?,"Only if necessary for safety. Otherwise, wait for medical help to avoid further injuries."
+Hit_Run_Vehicle_Details,What if I only saw part of the vehicle�s number plate?,"Provide any details you remember to the police, and they may track the vehicle using partial data."
+Hit_Run_Death_Case,What happens in a hit-and-run case resulting in death?,"The driver can be charged under IPC Section 304, leading to imprisonment of up to 10 years."
+Hit_Run_Bystander_Law,Am I legally required to help a hit-and-run victim?,India�s Good Samaritan Law protects those who help accident victims from legal complications.
+Hit_Run_Civil_Case,Can I file a civil case against a hit-and-run driver?,"Yes, victims or their families can file a civil lawsuit seeking damages for injuries or loss of life."
+Hit_Run_Hospital_Admission,Can hospitals refuse treatment to hit-and-run victims?,"No, hospitals must provide emergency care to victims under the Supreme Court�s guidelines."
+Hit_Run_Road_Safety,How can we prevent hit-and-run accidents?,"Follow traffic rules, report reckless drivers, and promote road safety awareness."
+Hit_Run_Witness_Protection,Will I be protected if I testify as a witness?,"Yes, witness protection laws ensure safety and anonymity for those testifying in serious cases."
+Hit_Run_Accident_Penalty,What is the minimum penalty for a hit-and-run offense?,"A fine of ?5,000 and up to 6 months imprisonment under the Motor Vehicles Act."
+Hit_Run_Self_Defense,What if I flee the scene out of fear after an accident?,It�s best to report the accident immediately. Fleeing can lead to harsher legal consequences.
+Hit_Run_RBI_Compensation,Does the government provide compensation for hit-and-run victims?,"Yes, the Ministry of Road Transport provides compensation under the Solatium Scheme."
+Hit_Run_Social_Responsibility,Why is reporting a hit-and-run accident important?,It helps ensure justice for the victim and prevents reckless driving from going unpunished.
+Hit_Run_Minor_Driver,What happens if a minor is involved in a hit-and-run case?,"The minor�s parents may be held accountable, and the minor can face legal action as per juvenile laws."
+Hit_Run_Highway_Accidents,Who handles hit-and-run cases on highways?,The Highway Patrol or State Police investigate and handle such incidents.
+Hit_Run_Car_Insurance,Can my insurance cover damage caused by a hit-and-run driver?,Check with your insurance provider. Some policies cover hit-and-run damages under third-party insurance.
+Hit_Run_Rewards_For_Info,Do police offer rewards for hit-and-run case information?,"In some cases, police may offer rewards for crucial information leading to the arrest of the offender."
+Hit_Run_Accident_Claim_Process,How do I apply for hit-and-run compensation?,Submit a claim at the District Claims Tribunal along with necessary evidence.
+Hit_Run_Speeding,Does speeding contribute to hit-and-run accidents?,"Yes, high speed increases the risk of accidents and makes drivers less likely to stop."
+Hit_Run_Bike_Accident,Is a hit-and-run involving a bike treated differently?,"No, all hit-and-run cases are treated seriously regardless of the vehicle type."
+Hit_Run_Fake_Accident_Claims,What if someone falsely accuses me of a hit-and-run?,Gather evidence like dashcam footage and eyewitnesses to prove your innocence.
+Hit_Run_Public_Responsibility,What can the public do to reduce hit-and-run incidents?,"Report reckless drivers, follow traffic rules, and support road safety initiatives."
+Hit_Run_Online_FIR,Can I file a hit-and-run FIR online?,"Yes, many states allow online FIR registration through their police websites."
+Hit_Run_Traffic_Cameras,Can traffic cameras help solve hit-and-run cases?,"Yes, traffic cameras can capture vehicle details and help police identify offenders."
+Hit_Run_Repeat_Offenders,What happens if someone is caught for multiple hit-and-run offenses?,"They may face higher penalties, extended imprisonment, and permanent license revocation."
+Hit_Run_Suspicious_Driver,What should I do if I see a suspicious driver fleeing an accident?,Note their vehicle details and report to the police immediately.
+Hit_Run_Accident_Helpline,Is there a national helpline for road accidents?,"Yes, you can call 112 for police assistance or 108 for medical emergencies."
+Hit_Run_Passenger_Liability,Are passengers liable in a hit-and-run case?,Passengers are not usually liable unless they were involved in encouraging or assisting the driver.
+Drunk_Driving_Laws,What is the legal limit for alcohol while driving?,"In India, the legal limit is 30mg of alcohol per 100ml of blood, as per the Motor Vehicles Act."
+Drunk_Driving_Punishment,What is the punishment for drunk driving?,"Drunk driving can lead to fines up to ?10,000 and imprisonment of up to 6 months for the first offense."
+Drunk_Driving_Repeat_Offense,What happens if I am caught drunk driving again?,"Repeat offenses may result in a ?15,000 fine, up to 2 years imprisonment, and license suspension."
+Drunk_Driving_Breathalyzer_Test,Can police force me to take a breathalyzer test?,"Yes, police have the authority to conduct breathalyzer tests under the Motor Vehicles Act."
+Drunk_Driving_License_Suspension,Can my license be suspended for drunk driving?,"Yes, your license can be suspended for up to 3 months for the first offense."
+Drunk_Driving_Car_Seizure,Can police seize my car if I am caught drunk driving?,"Yes, police may impound your vehicle if found driving under the influence of alcohol."
+Drunk_Driving_Bail,Can I get bail if caught drunk driving?,"Bail may be granted for first-time offenders, but repeat offenses may lead to stricter consequences."
+Drunk_Driving_Accident,What if I cause an accident while drunk driving?,"You may face charges under IPC Section 304A, leading to imprisonment and a heavy fine."
+Drunk_Driving_Insurance_Claim,Can I claim insurance if I was drunk during an accident?,"No, insurance claims are usually rejected if the driver was under the influence of alcohol."
+Drunk_Driving_Police_Checkpoints,Can police set up checkpoints for drunk driving?,"Yes, police conduct regular DUI checkpoints to catch drunk drivers and prevent accidents."
+Drunk_Driving_Hit_and_Run,What if I flee after causing an accident while drunk?,"Fleeing after a drunk driving accident can lead to severe penalties, including jail time under IPC 304."
+Drunk_Driving_First_Offense,What happens if I am caught drunk driving for the first time?,"You may face a ?10,000 fine or imprisonment up to 6 months, depending on the severity."
+Drunk_Driving_Test_Refusal,What if I refuse to take a breathalyzer test?,Refusing a breathalyzer test can lead to penalties similar to drunk driving charges.
+Drunk_Driving_Alcohol_Level_Test,How do police measure alcohol levels in drivers?,Police use breathalyzers or blood tests to determine alcohol concentration in a driver's blood.
+Drunk_Driving_Public_Transport,Can I be charged for being drunk on public transport?,"No, unless you are causing public disturbance or behaving in a disorderly manner."
+Drunk_Driving_Compounding_Fee,Can I pay a fine and avoid court proceedings?,"For minor offenses, fines can be paid at the spot, but serious cases may require court trials."
+Drunk_Driving_Mobile_Court,Can I be prosecuted on the spot for drunk driving?,"Yes, mobile courts are set up in some cities to conduct immediate trials for traffic violations."
+Drunk_Driving_Youth_Offenders,What if a minor is caught drunk driving?,"The parents or vehicle owner can be held responsible, and the minor may face legal action."
+Drunk_Driving_CCTV_Evidence,Can CCTV footage be used as evidence in drunk driving cases?,"Yes, CCTV footage can be used in court to prove reckless or drunk driving behavior."
+Drunk_Driving_Awareness_Programs,Are there awareness programs for preventing drunk driving?,"Yes, traffic police and NGOs conduct awareness drives to educate people about the dangers of drunk driving."
+Drunk_Driving_Death_Penalty,What happens if someone dies due to drunk driving?,"The driver can be charged under IPC 304, leading to up to 10 years of imprisonment."
+Drunk_Driving_Community_Service,Can I be sentenced to community service for drunk driving?,"Yes, some courts may order community service along with fines and license suspension."
+Drunk_Driving_Car_Tracking,Can police track my car if I flee from a DUI checkpoint?,"Yes, police can use CCTV footage, vehicle registration details, and GPS tracking to locate your vehicle."
+Drunk_Driving_Traffic_Laws,Under which law is drunk driving punished?,"Drunk driving is punishable under Section 185 of the Motor Vehicles Act, 1988."
+Drunk_Driving_Social_Impact,How does drunk driving affect society?,"Drunk driving increases road accidents, endangers lives, and puts unnecessary strain on emergency services."
+Drunk_Driving_Peer_Pressure,How can I refuse to drink when pressured by friends?,"Practice saying no firmly, offer an alternative activity, or take a designated driver role."
+Drunk_Driving_Parental_Responsibility,Are parents responsible if their child is caught drunk driving?,"Yes, parents may face legal consequences if they allowed an underage person to drive under the influence."
+Drunk_Driving_Road_Safety_Campaigns,What are some road safety campaigns against drunk driving?,Initiatives like �Don't Drink and Drive� and �Safe Roads India� promote awareness against DUI incidents.
+Drunk_Driving_Preventive_Measures,How can I prevent myself from driving under influence?,"Arrange a designated driver, use public transport, or call a cab if you've been drinking."
+Drunk_Driving_Online_FIR,Can I file an online complaint against a drunk driver?,"Yes, most state police websites have an option to report traffic violations online."
+Drunk_Driving_Teenage_Accidents,Are teenage drivers more prone to drunk driving accidents?,"Yes, statistics show that inexperienced drivers are at a higher risk of DUI-related accidents."
+Drunk_Driving_Workplace_Consequences,Can I lose my job if caught drunk driving?,"Some employers have strict policies against DUI offenses, leading to disciplinary action or termination."
+Drunk_Driving_Good_Samaritan_Law,Can I help a drunk driving victim without legal trouble?,"Yes, India's Good Samaritan Law protects people who assist accident victims from legal issues."
+Drunk_Driving_Rehabilitation_Programs,Are there rehabilitation programs for repeat DUI offenders?,"Yes, courts may mandate rehabilitation programs for individuals with multiple DUI offenses."
+Drunk_Driving_Blood_Test,Can police take a blood test instead of a breathalyzer?,"Yes, if a breathalyzer is inconclusive, a blood test can be conducted at a hospital."
+Drunk_Driving_Insurance_Premium,Does a DUI offense affect my insurance premium?,"Yes, a DUI conviction can lead to higher insurance premiums or even policy cancellation."
+Drunk_Driving_Fake_Accusation,What if I am falsely accused of drunk driving?,You can challenge the accusation in court with medical reports or dashcam footage as evidence.
+Drunk_Driving_Night_Checks,Why are police checks more frequent at night?,"Most DUI incidents happen at night, so police conduct frequent checks to prevent accidents."
+Drunk_Driving_Lock_Device,Can I install a breathalyzer lock in my car?,"Yes, alcohol ignition interlocks prevent a car from starting if alcohol is detected in the driver�s breath."
+Drunk_Driving_Mobile_Apps,Are there mobile apps to detect alcohol levels?,"Yes, some apps estimate blood alcohol levels and help people make informed decisions."
+Drunk_Driving_Ride_Sharing,Is ride-sharing a good alternative to drunk driving?,"Yes, using Uber, Ola, or a taxi service can help avoid DUI incidents and ensure safe travel."
+Drunk_Driving_Refusal_To_Hand_Over_Keys,Can my friends stop me from driving drunk?,"Yes, friends and family can take preventive action to avoid potential accidents and legal trouble."
