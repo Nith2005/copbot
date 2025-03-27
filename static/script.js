@@ -4,69 +4,8 @@ document.addEventListener('DOMContentLoaded', () => {
     const chatMessages = document.getElementById('chat-messages');
     const themeToggle = document.querySelector('.theme-toggle');
     const quickReplyButtons = document.querySelectorAll('.quick-reply-btn');
-    const voiceInputBtn = document.querySelector('.voice-input-btn');
     const emojiBtn = document.querySelector('.emoji-btn');
     let isConversationEnded = false;
-    let isRecording = false;
-
-    // Speech Recognition Setup
-    const SpeechRecognition = window.SpeechRecognition || window.webkitSpeechRecognition;
-    let recognition = null;
-    
-    if (SpeechRecognition) {
-        recognition = new SpeechRecognition();
-        recognition.continuous = false;
-        recognition.lang = 'en-US';
-        recognition.interimResults = false;
-        recognition.maxAlternatives = 1;
-
-        recognition.onresult = (event) => {
-            const speechResult = event.results[0][0].transcript;
-            userInput.value = speechResult;
-            stopRecording();
-        };
-
-        recognition.onerror = (event) => {
-            console.error('Speech recognition error:', event.error);
-            stopRecording();
-        };
-
-        recognition.onend = () => {
-            stopRecording();
-        };
-    } else {
-        voiceInputBtn.style.display = 'none';
-        console.log('Speech recognition not supported');
-    }
-
-    // Voice Input Handling
-    function startRecording() {
-        if (recognition) {
-            recognition.start();
-            voiceInputBtn.innerHTML = '<i class="fas fa-stop"></i>';
-            voiceInputBtn.classList.add('recording');
-            isRecording = true;
-        }
-    }
-
-    function stopRecording() {
-        if (recognition) {
-            recognition.stop();
-            voiceInputBtn.innerHTML = '<i class="fas fa-microphone"></i>';
-            voiceInputBtn.classList.remove('recording');
-            isRecording = false;
-        }
-    }
-
-    voiceInputBtn.addEventListener('click', () => {
-        if (!isConversationEnded) {
-            if (!isRecording) {
-                startRecording();
-            } else {
-                stopRecording();
-            }
-        }
-    });
 
     // Emoji Picker Setup
     let emojiPicker = null;
@@ -222,7 +161,6 @@ document.addEventListener('DOMContentLoaded', () => {
         isConversationEnded = true;
         userInput.disabled = true;
         userInput.placeholder = 'Conversation ended. Refresh to start a new chat.';
-        voiceInputBtn.disabled = true;
         emojiBtn.disabled = true;
         document.querySelector('.send-btn').disabled = true;
         quickReplyButtons.forEach(btn => btn.disabled = true);

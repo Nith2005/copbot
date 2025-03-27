@@ -179,7 +179,7 @@ def get_response(user_query):
         if confidence > 0.3:
             english_response = f"{responses[idx]} (Confidence: {confidence:.2f})"
         else:
-            english_response = ("I apologize, but I couldn't understand your query. You can ask me anything about police services, FIRs, complaints, and emergency procedures:\n" + 
+            english_response = ("I apologize, I couldn't understand your query. You can ask me anything about police services, FIRs, complaints, and emergency procedures:\n" + 
                              "\n")
         
         # Step 3: Translate response back to original language
